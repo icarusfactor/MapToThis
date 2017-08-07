@@ -23,7 +23,7 @@ a unique key and PHP server hosting the GPS positioned detination and PDF files.
     End Game triggered by the exhibitor canceling the game.  
  
  
- [ ] Google map app test<BR>
+ [*] Google map app test<BR>
  [ ] PDF Viewer app test<BR>
  [ ] Server setup to generate key<BR>
  [ ] Server setup to host pdf files. [no larger than 5M]<BR>

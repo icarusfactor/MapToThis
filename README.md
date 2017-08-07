@@ -23,14 +23,14 @@ a unique key and PHP server hosting the GPS positioned detination and PDF files.
     End Game triggered by the exhibitor canceling the game.  
  
  
- [ ] Google map app test
- [ ] PDF Viewer app test
- [ ] Server setup to generate key
- [ ] Server setup to host pdf files. [no larger than 5M]
- [ ] Server setup to log in users.
- [ ] Server setup to specifiy Admin User - exhibitor or scout to each game.
- [ ] Server setup to use Google maps
- [ ] Server setup to get lat lon from map arrow location.
- [ ] Server set destination and KEY and time limit and end game scout who completed it in a mysql DB. 
+ [ ] Google map app test<BR>
+ [ ] PDF Viewer app test<BR>
+ [ ] Server setup to generate key<BR>
+ [ ] Server setup to host pdf files. [no larger than 5M]<BR>
+ [ ] Server setup to log in users.<BR>
+ [ ] Server setup to specifiy Admin User - exhibitor or scout to each game.<BR>
+ [ ] Server setup to use Google maps<BR>
+ [ ] Server setup to get lat lon from map arrow location.<BR>
+ [ ] Server set destination and KEY and time limit and end game scout who completed it in a mysql DB.<BR>
   
  
